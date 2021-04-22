@@ -1,0 +1,51 @@
+* commit 3ee1ba2359f75849e5edf6affb87511ec9bf3974 (HEAD -> master, javiesinr/master)
+| Author: Javi <usuarioenpruebas4@gmail.com>
+| Date:   Thu Apr 22 09:00:48 2021 +0200
+| 
+|     comidapussy  beta2
+| 
+* commit 49dc0a49e214ca4b1e244dd762ec56bbbf04e195
+| Author: Javi <usuarioenpruebas4@gmail.com>
+| Date:   Thu Apr 22 09:00:08 2021 +0200
+| 
+|     listasociass grrrr
+| 
+* commit 8c19c1e78111e56671b32a567fd4339629851683 (cocina_caseta)
+| Author: Javi <usuarioenpruebas4@gmail.com>
+| Date:   Thu Apr 22 08:42:20 2021 +0200
+| 
+|     comidarubia
+| 
+* commit 9df25408b37f07368a92ab25fd034a20dfad036e
+| Author: Javi <usuarioenpruebas4@gmail.com>
+| Date:   Thu Apr 22 08:41:08 2021 +0200
+| 
+|     comidapussy
+| 
+* commit 8c5ffa5cf597812b6753f3c39e0f7d2a7af6d161
+| Author: Javi <usuarioenpruebas4@gmail.com>
+| Date:   Thu Apr 22 08:38:08 2021 +0200
+| 
+|     socios
+| 
+* commit 99d38cc8b7dacae8bddc53f392859f648675df07
+| Author: Javi <usuarioenpruebas4@gmail.com>
+| Date:   Thu Apr 22 08:36:01 2021 +0200
+| 
+|     listasociosbeta
+| 
+* commit cb7bb08b18597b72f2c4be20cee8702a7a6e7c96
+  Author: Javi <usuarioenpruebas4@gmail.com>
+  Date:   Thu Apr 22 08:34:00 2021 +0200
+  
+      listasocios
+3ee1ba2 HEAD@{0}: commit: comidapussy beta2
+49dc0a4 HEAD@{1}: commit: listasociass grrrr
+8c19c1e HEAD@{2}: merge cocina_caseta: Fast-forward
+8c5ffa5 HEAD@{3}: checkout: moving from cocina_caseta to master
+8c19c1e HEAD@{4}: commit: comidarubia
+9df2540 HEAD@{5}: commit: comidapussy
+8c5ffa5 HEAD@{6}: checkout: moving from master to cocina_caseta
+8c5ffa5 HEAD@{7}: commit: socios
+99d38cc HEAD@{8}: commit: listasociosbeta
+cb7bb08 HEAD@{9}: commit (initial): listasocios
